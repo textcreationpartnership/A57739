@@ -1,0 +1,574 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The blessedness of departed saints in their immediate enjoyment of God in glorie Propounded and improved in a funeral-sermon, upon Revel. 14.13. March 3. 1651. By Joseph Rowe, minister of the Gospel, and pastor of Buckland-monachorum in Devon.</title>
+            <author>Rowe, Joseph, b. 1617 or 18.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57739</idno>
+            <idno type="STC">Wing R2067A</idno>
+            <idno type="STC">ESTC R218416</idno>
+            <idno type="EEBO-CITATION">99830015</idno>
+            <idno type="PROQUEST">99830015</idno>
+            <idno type="VID">34462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2017:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The blessedness of departed saints in their immediate enjoyment of God in glorie Propounded and improved in a funeral-sermon, upon Revel. 14.13. March 3. 1651. By Joseph Rowe, minister of the Gospel, and pastor of Buckland-monachorum in Devon.</title>
+                  <author>Rowe, Joseph, b. 1617 or 18.</author>
+               </titleStmt>
+               <extent>[4], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Bentley, for F. Eaglesfield at the Marygold in S. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34462:1" rendition="simple:additions"/>
+            <p>THE BLESSEDNESS of Departed SAINTS In their immediate enjoyment of GOD in glorie. <hi>Propounded and improved in a Funeral-Sermon, upon</hi> Revel. 14.13. March 3. 1651.</p>
+            <p>By JOSEPH ROWE, Miniſter of the Goſpel, and Paſtor of <hi>Buckland-monachorum</hi> in <hi>Devon.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2. COR. 5.1.</hi>
+               </bibl>
+               <p>We know, that if our earthly houſe of this tabernacle were diſ<g ref="char:EOLhyphen"/>ſolved, we have a building of God, an houſe not made with hands, eternal in the heavens.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Bentley,</hi> for <hi>F. Eaglesfield</hi> at the Marygold in S. <hi>Pauls</hi> Church-yard.</p>
+            <p>
+               <hi>Anno Dom.</hi> 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34462:2" rendition="simple:additions"/>
+            <pb facs="tcp:34462:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:34462:3"/>
+            <pb facs="tcp:34462:3"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Courteous READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He plain Meditations here<g ref="char:EOLhyphen"/>unto annexed, conceived at firſt for the Pulpit, &amp; from thence delivered at the Funeral of a gracious<note n="*" place="margin">
+                  <hi>M.C.</hi> Wife to <hi>E.C.</hi> Eſquire.</note> Gentlewoman to the ears of a few, are now [providence ſo diſpoſing] made publick, and in the ſame Attire preſented to the eyes of many.</p>
+            <p>This ſhort addreſs humbly be ſpeaks thy kind acceptance of them, and a lodging for them in the trea<g ref="char:EOLhyphen"/>ſurie of thy heart. The common good of ſouls is [I aſſure thee] the great deſign of the Author, and of the preſent undertaking. And if
+<pb facs="tcp:34462:4"/>God be pleaſed to witneſs to his own precious Truth, managed in this little diſcourſe, and by it convey light to any ſoul, I ſhall account my ſelf a rich gainer by this adventure, whatſoever hazards I run in it.</p>
+            <p>My prayer is; that GOD WHO QUICKENETH THE DEAD, would put life into theſe dead papers, and by his own holy SPIRIT lead into the ways of bleſſedneſs they direct un<g ref="char:EOLhyphen"/>to; and in the end of thy earthly pil<g ref="char:EOLhyphen"/>grimage crown thee with bleſſedneſs in the kingdom of glorie. This is the earneſt deſire of him who is,</p>
+            <closer>
+               <signed>
+                  <hi>Thine to love and ſerve in the Miniſterie of the Goſpel,</hi> JOSEPH ROWE.</signed>
+               <date>March 15. 1653.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:34462:4"/>
+            <head>THE BLESSEDNESS Of Departed SAINTS, In their immediate enjoyment of GOD in Glorie.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REVEL. Chap. 14. Verſ. 13. part of it.</hi>
+                  </bibl>
+                  <p>Bleſſed are the dead which die in the Lord, from henceforth, yea, ſaith the ſpirit, that they may reſt from their labours, and their works do follow them.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here is controverſie amongſt <hi>Interpreters</hi> concer<g ref="char:EOLhyphen"/>ning the cohaerence and dependancy of this verſe.<note place="margin">The context cleared.</note> 
+               <hi>Moſt</hi> refer it to the foregoing,<note n="*" place="margin">Mede Cla. <hi>Apoca<g ref="char:EOLhyphen"/>lipt.</hi>
+               </note> 
+               <hi>Some few</hi> to the following verſes, but it is not much material how we ſtate the relation of the words, ſo we carefully inquire into, and retain their ſenſe, and meaning.</p>
+            <p>The <hi>ſcope,</hi> and <hi>drift</hi> of the <hi>Text</hi> is,<note place="margin">The ſcope of the Text pro<g ref="char:EOLhyphen"/>poſed.</note> to comfort the Saints againſt the fear of death whether <hi>natural,</hi> or <hi>violent.</hi> The <hi>conſolation</hi> held forth in it, is drawn from the <hi>happineſs</hi> that departed Saints enjoy upon the very <hi>moment</hi> of their diſſo<g ref="char:EOLhyphen"/>lution. And herein the Lord deals like a wiſe <hi>Phyſitian,</hi> who
+<pb n="2" facs="tcp:34462:5"/>applieth cordials, to revive, and keep up the ſpirit of his faint<g ref="char:EOLhyphen"/>ing <hi>Patients.</hi> So doth our gracious God! He here tenders a <hi>rich,</hi> and <hi>Sovereign Cordial,</hi> to revive, and heighten fearfull, and dejected Souls againſt the dreadfull threatnings of the <hi>evil day.</hi> Aſſuring them by <hi>a voice from heaven,</hi> utte red by the <hi>ſpirit of truth,</hi> that the greateſt evils, yea death it ſelf, do but make way for the ſpeedier paſſage of Saints to eternalfelicity.</p>
+            <p>Though believers <hi>die</hi> either <hi>in,</hi> or <hi>for the Lord,</hi> yet herein they are <hi>bleſſed,</hi> and that inſtantly upon their death, in reſting from their labours, and in receiving the reward of their works. <hi>Bleſſed are the dead which die in the Lord, from henee forth,</hi> &amp;c.</p>
+            <p>In the words are two general parts.<note place="margin">Diviſion of Text</note>
+            </p>
+            <p>Firſt <hi>A Point propounded;</hi> [<hi>Bleſſed are the dead which</hi> &amp;c.</p>
+            <p>Secondly, <hi>A proof fit exhibited,</hi> and laid forth [<hi>yea ſaith the ſpirit that they</hi> &amp;c.]</p>
+            <p>In the former of theſe are three Circumſtances.<note place="margin">Firſt Gen. ſubdivided</note>
+            </p>
+            <p>Firſt, A priviledge, <hi>Bleſſedneſs [Bleſſed.]</hi>
+            </p>
+            <p>Secondly, the perſons to whom it belongs; The <hi>dead which die in the Lord.</hi>
+            </p>
+            <p>Thirdly, the time when this glorious Priviledge comes to be enjoyed. This is carried under thoſe expreſſions <hi>[from henceforth] Bleſſed are the dead which die in the Lord from henceforth.</hi>
+            </p>
+            <p>In the ſecond General are two Particulars.<note place="margin">Second Ge<g ref="char:EOLhyphen"/>neral ſub<g ref="char:EOLhyphen"/>devided</note>
+               <list>
+                  <item>1. The <hi>Perſon</hi> aſſerting the former Truth; <hi>The ſpirit.</hi>
+                  </item>
+                  <item>2. The <hi>Reaſons</hi> alledged for confirmation of the Truth, and they are two.</item>
+               </list>
+            </p>
+            <p>The firſt is taken from the <hi>rest</hi> of departed Saints. They are bleſſed that dye in the Lord, <hi>that they may reſt from their labours;</hi> that is <hi>becauſe</hi> they reſt from their labours <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>that</hi>
+               <note n="*" place="margin">Pareus in locum.</note> being put for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>becauſe.</hi>
+            </p>
+            <p>The ſecond reaſon is grounded upon their <hi>reward.</hi> Their <hi>works,</hi> that is, by a <hi>Metonymie</hi> the<note n="*" place="margin">Piſeator, Napier, Ju<g ref="char:EOLhyphen"/>nius, Bul<g ref="char:EOLhyphen"/>linger Dio<g ref="char:EOLhyphen"/>dati, Leigh, Gerhard.</note> 
+               <hi>reward</hi> of their work <hi>do follow</hi> them.</p>
+            <p>Both reaſons (as <hi>Pareus</hi> obſerves) are taken from <hi>racer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="3" facs="tcp:34462:5"/>who having attained the mark, enjoy a twofold benefit, <hi>reſt,</hi> and <hi>reward.</hi>
+            </p>
+            <p>Theſe Particulars being too many to be all diſpatched at this time, the firſt General ſhall (by Gods permiſſion) be the boundary of my ſpeech, and your attention.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Bleſſed are the dead dying, or which dye in the Lord from henceforth.</hi>
+            </p>
+            <p>I ſhall firſt explain the <hi>terms</hi> that are ſhadowed with any difficulty;<note place="margin">Firſt Gene<g ref="char:EOLhyphen"/>ral explain<g ref="char:EOLhyphen"/>ed.</note> and next give out ſuch <hi>Doctrines</hi> as may warran<g ref="char:EOLhyphen"/>tablely be erected upon this Scripture-foundation. That which is to be handled by way of explication is.</p>
+            <p>Firſt the meaning of the word <hi>[Bleſſed.]</hi>
+            </p>
+            <p>Secondly, who they are, that are here ſaid to <hi>[die in the Lord.]</hi>
+            </p>
+            <p>Thirdly, what time is eſpecially intended by theſe parti<g ref="char:EOLhyphen"/>cles of time <hi>[From henceforth.]</hi>
+            </p>
+            <p>We begin to open the priviledge held forth under the tearm <hi>[Bleſſed]</hi> and to ſhew what is meant by it.</p>
+            <p>There is (as <hi>Divines</hi> diſtinguiſh) A 3 fold <hi>Bleſſedneſs.</hi>
+               <note place="margin">What is meant by term [bleſ<g ref="char:EOLhyphen"/>ſed]</note>
+               <list>
+                  <item>1. <hi>Naturae of nature!</hi> This <hi>Adam</hi> had during the ſhort time of his abode in Paradiſe.</item>
+                  <item>2. <hi>Gratiae of grace!</hi> Thus the <hi>Saints</hi> are happy even in this life. This <hi>bleſſedneſs</hi> our <hi>Saviour</hi> ſpeaks of in that excellent Sermon of his upon the Mount, <hi>Matth.</hi> 5. <hi>Chap.</hi> 3, 4, 5, 6, 7, 8, 9, 10, 11. <hi>verſes.</hi> This is called moſt often by Polemick Authours, <hi>Beatitudo viae, the bleſſedneſs of the way.</hi>
+                  </item>
+                  <item>3. <hi>Gloriae of glory!</hi> This appertains only to departed <hi>Saints,</hi> and is in other terms called, <hi>beatitudo patriae,</hi> the <hi>bleſſedneſs of the countrey.</hi> This again is 2 fold.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Inchoata, inchoate, or initial.</hi> This is that bleſſedneſs, which is beſtowed upon the <hi>ſoul</hi> immediately upon its ſepa<g ref="char:EOLhyphen"/>ration from the body; and of this bleſſedneſs is <hi>our Text</hi> to be underſtood. Or,</p>
+            <p>
+               <hi>Conſummata, conſummated, and perfect,</hi> which is that high and eminent degree of bleſſedneſs, and glory, which is to be
+<pb n="4" facs="tcp:34462:6"/>given forth to the body, and ſoul at the laſt day. The next expreſſion to be opened is!</p>
+            <p>Who they are,<note place="margin">
+                  <hi>2.</hi> Diſſiculty opened who they are that die in the Lord.</note> that are here ſaid <hi>[To die in the Lord?]</hi>
+            </p>
+            <p>The greek is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> we render it, <hi>The dead which die in the Lord.</hi>
+            </p>
+            <p n="1">1. There is a double expoſition given of this clauſe! Some interpret, dying <hi>in the Lord,</hi> of dying <hi>for the Lord,</hi> that is, <hi>for the Lords ſake,</hi> or for <hi>the Lords cauſe.</hi> Thus the <hi>Martyrs,</hi> who ſuffered death, for the maintenance of the Lords truth, <hi>dyed in the Lord.</hi> This interpretation is favoured by many<note n="*" place="margin">Beza. Piſ<g ref="char:EOLhyphen"/>cator Mede <hi>in loc.</hi>
+               </note> 
+               <hi>Pro<g ref="char:EOLhyphen"/>teſtant,</hi> and by ſome<note n="*" place="margin">Ribera <hi>in loc.</hi>
+               </note> 
+               <hi>Popiſh expoſitors.</hi> And to ſay truth, The words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are in ſome few Scriptures to be thus expounded. That place is plain for this, <hi>Epheſ.</hi> 4.1.1 <hi>Paul</hi> a Priſoner <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> we Engliſh it <hi>[of the Lord]</hi> but accord<g ref="char:EOLhyphen"/>ing to the Letter of the Greek 'tis <hi>[in the Lord]</hi> That is,<note n="*" place="margin">Chryſoſt. Muſculus. Diodat. <hi>in locum.</hi>
+               </note> 
+               <hi>For the Lord</hi> according to the <hi>Hebrew</hi> manner of ſpeaking. Thus<note n="*" place="margin">Divines of the Aſſembly in their notes upon the place. <hi>Pareus</hi> in Rom. <hi>16.</hi> verſ. <hi>2. &amp; 12.</hi>
+               </note> ſome alſo interpret that place, <hi>Rom.</hi> 16.2. Receive <hi>Phebe</hi> our ſiſter <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in the Lord,</hi> that is, for <hi>the Lords ſake.</hi> So <hi>verſe</hi> 12. <hi>Perſis</hi> is ſaid to have laboured much <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in the Lord, that is for the Lord.</hi> And thus you have an account of the firſt expoſition of theſe words <hi>[dying in the Lord]</hi> reſtraining them to the <hi>Martyrs</hi> dying for the Lord.</p>
+            <p n="2">2. There is another interpretation of a greater latitude, &amp; extenſion, given forth by ſeveral eminent <hi>Divines,</hi> who ex<g ref="char:EOLhyphen"/>pound this clauſe (<hi>which die in the Lord</hi> as of the Martyrs dying <hi>for Chriſt,</hi> ſo of all <hi>Believers</hi> alſo, dying in the faith of <hi>Chriſt.</hi>
+               <note n="*" place="margin">Bullinger Pareus Ger<g ref="char:EOLhyphen"/>hard <hi>Synod. Annot. in locum.</hi>
+               </note>
+            </p>
+            <p>This fence I prefer, as being moſt genuine and proper to the preſent Scripture. Forl (as <hi>One</hi> well obſerves) S. <hi>John</hi> doth not here ſpeak of thoſe ſad times of <hi>Antichrist,</hi> when he raged in full Fury againſt the <hi>Saints,</hi> but of the more happy age of reformation, when the power of <hi>Antichriſt</hi> ſhall in many places be broken, and the <hi>Martyrdoms</hi> of the Saints, not be ſo frequent as before. So that there is no rea<g ref="char:EOLhyphen"/>ſon why <hi>dying in the Lord</hi> ſhould be limitted to the <hi>Martyrs,</hi>
+               <pb n="5" facs="tcp:34462:6"/>when it may be enlarged to all <hi>believers,</hi> who do as live, ſo <hi>dye in the Lord.</hi> The Scripture dialect much favours this in<g ref="char:EOLhyphen"/>terpretation. Some of the family of <hi>Narciſsus,</hi> [profeſſing the faith of the Lord] are <hi>Rom.</hi> 16.14. Said to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in the Lord.</hi> Again, to live, and perſevere in the profeſſion of the faith, is <hi>John</hi> 15.4. called an <hi>abiding in Christ;</hi> and <hi>Col.</hi> 2.6. <hi>a walking in Chriſt.</hi>
+               <note place="margin">Diodat. <hi>in locum.</hi>
+               </note> And to die in the faith (whe<g ref="char:EOLhyphen"/>ther by a natural, or violent death) is 1 <hi>Cor.</hi> 15.18. expreſſed under the terms of <hi>ſleeping in Chriſt.</hi> And thoſe who thus die, are 1 <hi>Theſſ.</hi> 4.16. expreſly called, <hi>the dead in Chriſt.</hi>
+               <note place="margin">Muſculus <hi>in</hi> 1 Theſſ. 4.16.</note> To cloſe up all, to <hi>die in the Lord,</hi> is an expreſſion anſwering to that of <hi>dying in the faith,</hi> Heb. 11.13. Thus they do, who either <hi>die for Christ,</hi> as the <hi>Martyrs,</hi> or <hi>in the faith of Chriſt,</hi> as all <hi>be<g ref="char:EOLhyphen"/>lievers,</hi> whether <hi>Martyrs</hi> or <hi>Profeſſors.</hi> Nevertheleſs, that the <hi>Martyrs</hi> are chiefly meant by thoſe that <hi>die in the Lord,</hi> I readily grant; but that they are onely meant I reſolutely deny; All thoſe, whoſoever they are, that depart in the faith of the Lord, <hi>die in the Lord;</hi> and to theſe, as well as to the Martyrs doth the priviledge of <hi>bleſſedneſs</hi> appertain.</p>
+            <p>The <hi>time</hi> ſpecified for the obtainment of this <hi>bleſſedneſs</hi> comes now to be opened.<note place="margin">The third oarticular opened; The time for the obtain<g ref="char:EOLhyphen"/>ment of bleſ<g ref="char:EOLhyphen"/>ſedneſs.</note> This is held forth under the <hi>Greek</hi> particle, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we render it <hi>From henceforth.</hi>
+            </p>
+            <p>There is great contention amongſt the <hi>Learned,</hi> about this little word,</p>
+            <p>Their ſtrife concerns;</p>
+            <list>
+               <item>Firſt the <hi>place</hi> and <hi>ſituation</hi> of this particle.</item>
+               <item>Secondly, the <hi>Syntax and Conſtruction</hi> of it.</item>
+               <item>Thirdly, the <hi>genuine ſence</hi> and <hi>ſignification</hi> of the ſame.</item>
+            </list>
+            <p>As to the firſt:</p>
+            <p>The <hi>vulgar Latine,</hi> and <hi>ſome others,</hi>
+               <note place="margin">
+                  <hi>1.</hi> The ſitu<g ref="char:EOLhyphen"/>tation of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſeat this word in the front of the following ſentence; thus, <hi>Amodo jam dicit spiritus ut requieſcant a laboribus ſuis, &amp; opera corumſequuntur illes.</hi> that is, <hi>from henceforth now ſaith the Spirit, that they may reſt from their labors, and their works do follow them.</hi> The learned <hi>Divines,</hi> imployed in our laſt Tranſlation of the <hi>Bible,</hi> have ſo pointed the verſe, as that we may indifferently conjoyn ei<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:34462:7"/>with the precedent, or ſubſequent words. But moſt <hi>Greek copies,</hi> yea all, (as <hi>Pareus</hi> aſſerts) that of <hi>Montanus</hi> onely ex<g ref="char:EOLhyphen"/>cepted, and moſt <hi>Tranſlators</hi> and <hi>Interpreters,</hi> fix <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the rear, as the concluding term in this propoſition, <hi>[Bleſſed are the dead which die in the Lord from henceforth.]</hi> And ſo I ſhall look upon it in the preſent diſcourſe.</p>
+            <p>Touching the conſtruction of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Some joyn it with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>bleſſed!</hi>
+               <note place="margin">
+                  <hi>Beza</hi> in loc.</note> As thus, <hi>Bleſſed from henceforth are the dead.</hi> A skilfull<note n="*" place="margin">
+                  <hi>Heinſius</hi> exercit. ſacr. in cap. <hi>26. Matth.</hi> &amp; verſ. <hi>64.</hi>
+               </note> 
+               <hi>Critick</hi> paſſeth his judge<g ref="char:EOLhyphen"/>ment upon this; as ſeeming the beſt <hi>conſtruction</hi> of the word, although he acknowledge it may profitably be referred to the laſt clauſe.<note n="*" place="margin">Brightman <hi>&amp;</hi> Piſcar. <hi>in locum.</hi>
+               </note> 
+               <hi>Others</hi> conſtrue it with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>die,</hi> to which word 'tis <hi>(as they ſay)</hi> purpoſely ſubjoyned. And this <hi>con<g ref="char:EOLhyphen"/>ſtruction,</hi> is in my apprehenſion, as more clear, and Gramma<g ref="char:EOLhyphen"/>tical than the former; ſo more ſerviceable for the diſcoverie of the mind of God in the preſent <hi>expreſſion.</hi> The right meaning of which, is of moſt concernment; and that we are forthwith to inquire into.</p>
+            <p>There is a three-fold <hi>ſignification</hi> of this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> given ſorth by the <hi>Maſters</hi> of the Greek tongue, each of which, is taken up by <hi>ſome,</hi> or <hi>other</hi> of <hi>Divines,</hi> in their <hi>tranſlations</hi> and <hi>commentaries</hi> upon the preſent Scripture.</p>
+            <p n="1">1. The <hi>word</hi> is ſometime uſed as a note of <hi>aſſeveration.</hi>
+               <note n="*" place="margin">Heinſius <hi>in</hi> 26. Matt <hi>ver.</hi> 64.</note> 
+               <hi>Heinſius</hi> in his exercitations upon the <hi>New Teſtament,</hi> ob<g ref="char:EOLhyphen"/>ſerves, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is with the <hi>Greeks</hi> as much as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>verily, verily I ſay,</hi> or <hi>I ſpeak moſt truly and faithfully.</hi> And thus (as I take it) is the word rendered in a very antient <hi>Engliſh tranſlation,</hi> which I have ſeen; wherein the <hi>Text</hi> is read after this manner, <hi>Bleſſed are the dead which die in the Lord; Even ſo ſaith the ſpirit, that they may reſt from their labours,</hi> &amp;c. Here the <hi>Original words</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are tranſlated (I ſuppoſe) as an ingeminated aſſeveration by <hi>[evenſo.]</hi>
+            </p>
+            <p n="2">2. Again,<note place="margin">Vide <hi>Bud.</hi> Lexic. See thoſe Bibles with notes.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifieth <hi>fully,</hi> or <hi>perfectly,</hi> And in this ſence is the word rendered by ſome <hi>Latine Authors,</hi> and in ſome <hi>Engliſh Bibles,</hi> in which the former part of our <hi>Text</hi> is thus read, <hi>The dead in Christ are fully bleſſed.</hi>
+            </p>
+            <p n="3">
+               <pb n="7" facs="tcp:34462:7"/>
+3. But moſt <hi>Interpreters</hi> conceive the particle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be in this place an Adverb of <hi>time,</hi> repreſenting to us, not the <hi>be<g ref="char:EOLhyphen"/>ginning</hi> of the Churches ſufferings, as <hi>Piſcator</hi> conjectureth, but that very <hi>point of time,</hi> in which the <hi>bleſſedneſs</hi> here pro<g ref="char:EOLhyphen"/>pounded to the <hi>Saints</hi> is to commence and begin. Howbeit, about the particularitie of <hi>time</hi> intended by this expreſſion, there are varietie of <hi>conjectures</hi> amongſt the <hi>Learned.</hi>
+            </p>
+            <p>Some (as <hi>Pareus</hi> reports) make the time when this voice was proclaimed from heaven,<note place="margin">
+                  <hi>1.</hi> Opinion.</note> to be the time for the <hi>beginning of this bleſſedneſs.</hi> And they give out their meaning to this ef<g ref="char:EOLhyphen"/>fect; <hi>From henceforth,</hi> that is, from <hi>this very inſtant of time, in which this voice is beard from heaven, the dead in Chriſt are bleſſed.</hi> But this interpretation cannot be admitted, becauſe it ſeems to exclude from happineſs all thoſe that before this time <hi>died in the Lord,</hi> to whom, as well as to others, bleſſedneſs ap<g ref="char:EOLhyphen"/>pertains.</p>
+            <p>
+               <hi>Others adjudge</hi> the time of the Churches reformation,<note place="margin">2. <hi>Opinion.</hi> Pareus. Di<g ref="char:EOLhyphen"/>odat. <hi>in loc.</hi>
+               </note> and deliverance by the three Angels, to be the time, in which the happineſs promiſed in the Text, is to take its riſe, and be<g ref="char:EOLhyphen"/>ginning. From henceforth that is <hi>(ſay theſe)</hi> from the time the everlaſting Goſpel began to be preached, <hi>bleſſed are thoſe that die in the Lord.</hi>
+            </p>
+            <p>Theſe that thus die (ſaith <hi>Pareus</hi>) not onely are, or ſhall be bleſſed, but the three Angels ſhall publiſh, and Preach the ſame, refuting the heatheninſh fiction of <hi>purgatory, ſatiſ<g ref="char:EOLhyphen"/>factions</hi> and <hi>indulgences.</hi> This expoſition, although favoured by eminent <hi>Authours,</hi> ſeems not clear to me, but lieth open to many exceptions: and two much <hi>narroweth</hi> the mercy of God towards deceaſed <hi>Saints;</hi> for out of all doubt, they are happy, and bleſſed that <hi>died in the Lord</hi> in the ſad times of the Churches <hi>deformation,</hi> as well as thoſe that died ſince in the more light ſome times of <hi>reformation.</hi> Therefore I ſhall crave leave modeſtly to paſs it over, without building upon it.</p>
+            <p>A Third <hi>ſort</hi> referr the Adverb of time <hi>from hence<g ref="char:EOLhyphen"/>forth,</hi>
+               <note place="margin">
+                  <hi>3.</hi> Opinion. Lyra in loc. <hi>Bellarm. Ribera,</hi> &amp;c.</note> forward to the time of the <hi>laſt judgement,</hi> and make that the time for the beginning of the bleſſedneſs held forth
+<pb n="8" facs="tcp:34462:8"/>in the precious <hi>Scripture.</hi> This way go many <hi>Papiſts</hi> that ſo they may eſtabliſh the tottering Doctrine of <hi>Purgatory.</hi> The great reaſon urged by<note n="*" place="margin">Bellarmi nus <hi>loco praed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to.</hi>
+               </note> 
+               <hi>Bellarmine,</hi> and other <hi>Papal writers</hi> for this, is; becauſe the laſt judgement is treated of throughout the Chapter. But this is moſt apparently untrue. The laſt judgement is onely (if at all) treated of in the laſt part of the Chapter: And begins to be ſpoken to, in the <hi>verſe</hi> following my <hi>Text.</hi>
+            </p>
+            <p>In the former part of it, is <hi>a repreſentation</hi> of ſeveral great things; as the promulgation of the<note n="*" place="margin">verſ. <hi>12.</hi>
+               </note> 
+               <hi>everlaſting Goſpel:</hi> the prediction of<note n="*" place="margin">verſ. <hi>8.</hi>
+               </note> 
+               <hi>Babilons down fall;</hi> The dreadfull proclama<g ref="char:EOLhyphen"/>tion of indignation, and vengeance againſt the<note place="margin">
+                  <hi>verſ.</hi> 9.10.</note> 
+               <hi>worſhippers of the beaſt.</hi> All which are to be tranſacted by the 3 <hi>Angels</hi> ſome conſiderable ſpace of time, before the time of the laſt judgement. <hi>A late</hi>
+               <note n="*" place="margin">
+                  <hi>Mede</hi> in locum.</note> 
+               <hi>Interpreter</hi> of our own nation, pleades much for this opinion: But his reaſons have not ſtrength enough to work up my faith to cloſe with it, ſith the <hi>voice from heaven</hi> (as is moſt evident) proclaimes, not that bleſ<g ref="char:EOLhyphen"/>ſedneſs, that departed Saints ſhall enjoy hereafter; but the bleſſedneſs which for the preſent they are poſſeſſed of, and enjoy. It is not ſaid <hi>Bleſſed ſhall be the dead, but bleſſed are the dead which die in the Lord.</hi> For this and other reaſons, (too many to be now propounded) this interpretation is alſo to be rejected.</p>
+            <p>The 4. and laſt opinion is of<note n="*" place="margin">
+                  <hi>4</hi> Opinion.</note> thoſe, who make the <hi>par<g ref="char:EOLhyphen"/>ticular time of every believers death,</hi> to be the very time in<g ref="char:EOLhyphen"/>tended by the ſpirit in theſe words <hi>from henceforth,</hi> for the Commencement of the bleſſedneſs of the departed <hi>Saints,</hi> propoſed, and promiſed in this moſt ſweet, and ſoul com<g ref="char:EOLhyphen"/>forting <hi>Text. Bleſſed are the dead which die in the Lord from henceforth,</hi> that is (ſay the <hi>Authors</hi> of this expoſition) from the very inſtant of their death. Such as <hi>die in the Lord,</hi> upon the very moment of their diſſolution enter into bliſs. Upon the very inſtant of their death, their <hi>Souls</hi> enter into glory; and <hi>from thenceforth</hi> this their happineſs takes its beginning, and ariſe. The<note n="*" place="margin">Beda Ger<g ref="char:EOLhyphen"/>hard Bul<g ref="char:EOLhyphen"/>linger <hi>in lo<g ref="char:EOLhyphen"/>cum.</hi>
+               </note> 
+               <hi>Souls</hi> of thoſe that <hi>die in the Lord,</hi> are forth<g ref="char:EOLhyphen"/>with
+<pb n="9" facs="tcp:34462:8"/>without any delay, or interval of time, received of the Lord.</p>
+            <p>This <hi>expoſition</hi> I incline to, and ſhall inſiſt upon, as ſuiting well with the <hi>Text,</hi> and plain by many parallel <hi>Scriptures.</hi>
+            </p>
+            <p>Thus I have at length waded through the difficulties of this Text. The doctrines come now to be obſerved: And two onely (of many that might be noted) I ſhall propoſe, and proſecute.</p>
+            <p>The firſt is implyed, and is this!</p>
+            <p>
+               <hi>True believers must ſubmit to death as well as others.</hi>
+               <note place="margin">Doctrines <hi>1</hi> Doct.</note>
+            </p>
+            <p>Theſe are in the Text accounted amongſt the number of mortal creatures, and as ſuch who muſt one day go down to the dead.</p>
+            <p>The ſecond is clear, and expreſs, and gives forth the very Pith, and Marrow of the firſt General, and is to this effect.</p>
+            <p>
+               <hi>True believers immediately upon death are called unto,</hi>
+               <note place="margin">
+                  <hi>2</hi> Doct.</note> 
+               <hi>and crowned with bleſſedneſs in the Kingdom of glory.</hi>
+            </p>
+            <p>They are bleſſed that <hi>die in the Lord</hi> from <hi>thenceforth,</hi> that is from the very inſtant of their departure.</p>
+            <p>I beſeech you lengthen out your attention while I diſ<g ref="char:EOLhyphen"/>courſe briefly, and plainly upon both theſe Truths.</p>
+            <p>Of the firſt Doctrine in the firſt place.</p>
+            <p>
+               <hi>True believers muſt ſubmit to death as well as others.</hi>
+               <note place="margin">First Doct. bandled</note>
+            </p>
+            <p>All that live muſt one day die, and meet together in the grave. This is the <hi>houſe appointed for all living</hi> Job. 30.23. The <hi>Patriarchs,</hi> and <hi>Prophets</hi> could not obtain a Protection againſt the arreſts of death. <hi>Your Fathers where are they, and the Prophets do they live for ever?</hi> Zech. 1.5. No they did not. They are all laid in the duſt. <hi>Abraham is dead, and the Pro<g ref="char:EOLhyphen"/>phets are dead,</hi> Joh. 8.52. <hi>Lazarus</hi> the friend of Chriſt, <hi>fal<g ref="char:EOLhyphen"/>leth aſleep,</hi> that is, dieth, <hi>John</hi> 11. <hi>verſes.</hi> 11, 14.<note n="*" place="margin">
+                  <hi>Gen.</hi> 23.2.</note> 
+               <hi>Sarah.</hi>
+               <note n="*" place="margin">
+                  <hi>Gen.</hi> 35.18</note> 
+               <hi>Rachel;</hi> and other <hi>holy women that truſted in God,</hi> at laſt gave up the ghoſt, and died. <hi>Dorcas</hi> a Diſciple, <hi>full of good works, and of alms-deedes,</hi> at length gave way to nature, <hi>falls
+<pb n="10" facs="tcp:34462:9"/>ſick, and dieth,</hi> Act. 9.36, 37. Yea, <hi>Chriſt himſelf</hi> being found in faſhion as a man, humbled himſelf, and <hi>became obe<g ref="char:EOLhyphen"/>dient unto death,</hi> Phil. 2.8. There is a <hi>death</hi> due to every He or She that happens to be born.<note place="margin">Mancheſter <hi>Contempt.</hi>
+               </note> Yea. 'tis as natural <hi>(ſaith one)</hi> to die, as to be born.</p>
+            <p>Death is called <hi>Joſh.</hi> 23.14. <hi>The way of all the earth.</hi> All men and women, believers, and unbelievers, muſt walk in this path; <hi>What man is he that liveth, and ſhall not ſee death?</hi> Pſal. 89.48.</p>
+            <p>Death is <hi>via regia,</hi> the King of heavens high-way to the other world. Thou ſhalt die (ſaid <hi>a Philoſopher</hi> to a friend of his,) not becauſe thou art ſick, but becauſe thou liveſt.</p>
+            <p>It is the glorious priviledge of the Saints in <hi>heaven</hi> to die never; the dreadfull puniſhment of the damned in <hi>hell</hi> to die ever; the Law, Charter, or Cuſtom of men <hi>on earth</hi> to die once. The Saints themſelves are not able to chalenge an im<g ref="char:EOLhyphen"/>munitie from death, but muſt, when their turn comes, give way to it as well as others. And that for theſe Reaſons:</p>
+            <p>Firſt, becauſe of the <hi>decree of God omnipotent.</hi>
+            </p>
+            <p>Gods Statute-Law of Death, reacheth all; good and bad, believers and unbelievers. It is the decree of the living God, that all men <hi>muſt once die,</hi> Heb. 9.27. 'Tis the ſtanding Law of <hi>heaven,</hi> that all on <hi>earth</hi> muſt die. If any find exemption, as did <hi>Enoch</hi> and <hi>Elias,</hi> this comes to paſs through the ſingu<g ref="char:EOLhyphen"/>lar diſpenſation of God the <hi>King</hi> of heaven: and doth not at all impeach the credit, truth, and authoritie of this general de<g ref="char:EOLhyphen"/>cree.<note place="margin">Cajetan. <hi>in</hi> 9. Heb. 27.</note> The Statute is <hi>regular,</hi> that all muſt die the diſpenſati<g ref="char:EOLhyphen"/>on <hi>ſingular,</hi> that ſome have not died.</p>
+            <p>Again, true Believers muſt ſubmit to death as well as others.</p>
+            <p>Secondly, by reaſon of <hi>ſin inherent.</hi> Believers have ſin in them as well as others, and by means of it come under the guilt of death as well as others. The bodies of believers <hi>are dead</hi> (that is ſubject to death) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>becauſe of ſin,</hi> Rom. 8.11. Death is the <hi>brat</hi> of ſin; &amp; ſin is the parent, a <hi>mother</hi> of death. <hi>By one man ſin entered into the world, and death by ſin, and ſo death paſſed upon all men, for that all have ſinned,</hi> Rom. 5.12. ſin made way to death.</p>
+            <p>
+               <pb n="11" facs="tcp:34462:9"/>
+Finally, Believers die as well as others.</p>
+            <p>In regard of <hi>matter conſtituent:</hi> Their bodies are made up of periſhing materials, as well as the bodies of others. The bo<g ref="char:EOLhyphen"/>dies of all, holy, and unholy are made of the ſame duſt, and muſt alike in their ſeveral courſes <hi>return to the duſt from whence they were taken.</hi>
+            </p>
+            <p>The Saints have in them rich treaſures of grace; but their bodies which are the <hi>cask</hi> containing theſe treaſures, are (as the Apoſtle ſtileth them) <hi>earthen veſſels,</hi> or <hi>veſſels of ſhell,</hi> as the Greek ſignifieth, 2 <hi>Cor.</hi> 4.7. Veſſels of earth, or ſhell are liable to breaking; ſo are the bodies of the Saints to pe<g ref="char:EOLhyphen"/>riſhing and death. The bodie in the 2 <hi>Cor.</hi> 5.1. is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>an earthly houſe.</hi> It is called a <hi>houſe</hi> becauſe of its uſe and beautie; an <hi>earthly houſe</hi> becauſe it is made of the earth, and muſt to the earth again. The bodies of Gods deareſt ſervants are made of the ſame brittle metal, that the bodies of other men are, and therefore are alike liable to <hi>breaking</hi> and <hi>death.</hi>
+            </p>
+            <p>Our own ſad <hi>experience</hi> doth give abundant evidence to this <hi>truth.</hi> I paſs therefore from the <hi>confirmation,</hi> to the <hi>application</hi> of it. And this is two fold.</p>
+            <p>Firſt, for <hi>commination</hi> and <hi>threatening</hi> to all wicked men.<note place="margin">The <g ref="char:V">Ʋ</g>ſes of the <hi>1.</hi> Doct.</note>
+            </p>
+            <p>Secondly, for <hi>Admonition,</hi> and <hi>counſel</hi> to the Saints. For the firſt.</p>
+            <p>This Truth ſounds <hi>an allarm of vengeance againſt all wick<g ref="char:EOLhyphen"/>ed men living, and dying in ſin.</hi>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe <hi>1.</hi>
+               </note> If Gods friends muſt die! let not his enemies dream of eſcaping death.</p>
+            <p>They may with the rich <hi>fool</hi> in the <hi>Goſpel,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 12.20.</note> ſing <hi>lullaby</hi> to their ſouls; but (except they repent) in a time ere they be aware, will death arreſt them, and then without <hi>bail,</hi> or <hi>mainpriſe</hi> remain they muſt in the black <hi>priſon</hi> of <hi>Hell.</hi> It can be no comſort to <hi>ſinners,</hi> that the <hi>righteous</hi> die, as well as themſelves, Although both die, yet death is not the ſame to both. Death is a <hi>mercy</hi> to believers, a <hi>curſe</hi> to unbelievers. Death like the <hi>Angel</hi> plucks the Saints out of <hi>Sodom,</hi> and conducts them to <hi>Zoar,</hi> a City of refuge, but as a <hi>Bayliff,</hi> it
+<pb n="14" facs="tcp:34462:10"/>draweth wicked men from this earth, to the dungeon of <hi>Hell.</hi> Death in a word brings Deliverance to the Saints; but de<g ref="char:EOLhyphen"/>ſtruction to all wicked, and impenitent ſinners. The Saints <hi>live</hi> in death, but incorrigible ſinners are deſtroyed, and <hi>die by it. I will kill her children with death,</hi> was <hi>Christs</hi> threat<g ref="char:EOLhyphen"/>ning againſt the followers of <hi>Jezabel Rev.</hi> 2.23. This will be the doom, and down-fall of all ſuch as are workers of ini<g ref="char:EOLhyphen"/>quity. The Lord give ſinners hearts to conſider this, before the <hi>warrants</hi> of death be <hi>iſſued</hi> out againſt them.</p>
+            <p>Secondly,<note place="margin">
+                  <hi>2</hi> uſe.</note> this truth holds forth <hi>advice</hi> to you that are the <hi>friends</hi> of <hi>Jeſus Christ</hi> and profeſs faith in him. This concerns 3. duties.</p>
+            <p>The firſt is.<note place="margin">Duty <hi>1.</hi>
+               </note> 
+               <hi>Timely preparation for death.</hi> You muſt die, as well as others: learn, I beſeech you, to prepare for death, that ye may be happy in, and after death. To labour not to die (ſaith one) is to labour in vain! They onely are happy that think of death, and prepare for it in time of life. The <hi>end</hi> of this life, is no other than the <hi>beginning</hi> of ſor<g ref="char:EOLhyphen"/>rows to ſuch as are unprepared. Oh let me prevail with you, to fit your ſelves for your journey towards your <hi>long-home.</hi> The Prophet <hi>Eſay</hi> adviſeth <hi>Hezekiah to ſet his houſe in or<g ref="char:EOLhyphen"/>der, becauſe he ſhould die,</hi>
+               <note place="margin">
+                  <hi>Iſs.</hi> 38.7.</note> 
+               <hi>and not live.</hi> You muſt one day <hi>die,</hi> and not <hi>live:</hi> be adviſed to ſet your <hi>eſtates,</hi> your <hi>families,</hi> above all <hi>your ſelves</hi> in order, that ſo ye may finde mercy in the day of <hi>death.</hi>
+            </p>
+            <p>In order to the better diſcharge of this duty, Be ye pleaſed to obſerve theſe following directions.</p>
+            <p>
+               <hi>Make it your dayly practiſe more,</hi>
+               <note place="margin">Directions in reference to prepara<g ref="char:EOLhyphen"/>tion for death.</note> 
+               <hi>and more to deſtroy ſin in your mortal bodies.</hi> If ye will live, when you die; you muſt die to ſin while you live. He that dieth in his ſins without repentance, ſhall to his eternal wo, ever finde ſin living in himſelf, Prepare therefore every day, for your dying day, by dying unto ſin: this is the way to live after death. <hi>If ye live after the fleſh ye ſhall die, but if ye through the ſpirit mor<g ref="char:EOLhyphen"/>tifie the deeds of the bodie ye ſhall live,</hi> Rom. 8.13. Ye ſhall live, (deſtroying ſin) both before, and after death; before
+<pb n="13" facs="tcp:34462:10"/>death, the life of grace; after death, the life of glorie. This <hi>dayly</hi> preparation for death, was the <hi>Apoſtles</hi> dayly <hi>practice,</hi>
+               <note n="*" place="margin">
+                  <hi>Diodat.</hi> in locum.</note> 1. Cor. 15.31. <hi>I die dayly,</hi> ſaith he. That is, as death hangs over my head continually, ſo I dayly prepare for it.</p>
+            <p>Secondly, <hi>Lay up treaſures for your ſelves in heaven every day while you are upon earth.</hi> This is as your dutie, ſo your crown. A holy life is the beſt preparation for death. If you build upon <hi>Chriſt the rock,</hi> the ſtorms of ſickneſs, and death ſhall do you no annoyance. Live to Chriſt now, and he will receive you in death; yea ye ſhall live with him after death. <hi>He will ſave the ſouls of his ſervants,</hi> Pſal. 34.22. Living re<g ref="char:EOLhyphen"/>ligiouſly, you may die comfortably. <hi>The righteous hath hope in his death,</hi> Prov. 14.32.</p>
+            <p>Thirdly, <hi>Meditate frequently upon death.</hi> Frequent ac<g ref="char:EOLhyphen"/>quaintance with death, takes away the bitterneſs of death, and fits a man the better to under go it. <hi>As the flight of a bird is directed by her train; and as the courſe of a ſhip is ſteered by the belm; ſo</hi> (to uſe a common and familiar compariſon) <hi>is the life of Chriſtians rightly ordered by a dayly conſideration of their latter end.</hi> It is reported in Hiſtories of <hi>Philoſtates,</hi> that he lived ſeven years in his Tomb, that ſo he might be throughly acquainted with it. The <hi>all-wiſe</hi> God, <hi>Deut.</hi> 32.29. com<g ref="char:EOLhyphen"/>mends the ſerious contemplation of our latter end, as an act of ſpiritual wiſdom. <hi>Oh that they were wiſe, that they under<g ref="char:EOLhyphen"/>ſtood this, That they would conſider their latter end.</hi> Thus of the firſt dutie. I can but hint at the following duties. The next of which is,<note place="margin">Dutie <hi>2.</hi>
+               </note> 
+               <hi>A carefull uſing of religious kindred and acquaintance to the beſt advantage.</hi> They ſhall not alway remain with you in this earth; while you enjoy their company improve it to the utmoſt, Religious and godly perſons are as <hi>lights in the world,</hi> Phil. 2.15. While we enjoy this light, it is our dutie to work by it. The light of their company and counſel, will ſhine upon us but a while: Therefore (as our <hi>Saviour</hi> adviſeth in refer<g ref="char:EOLhyphen"/>ence to himſelf and Goſpel, <hi>John</hi> 12.35.) <hi>While we have the light, we ſhould walk in it.</hi> Godly perſons are but lent us for a time: Oh let us receive what good we may from them before
+<pb n="14" facs="tcp:34462:11"/>the Lord call them hence to himſelf by <hi>death.</hi> It will be the condemnation of many <hi>wicked ones,</hi> that they have <hi>godly friends</hi> and make no good uſe of them.</p>
+            <p>The laſt dutie commended to the Saints from the former Doctrine is:</p>
+            <p>
+               <hi>Cheerfulneſs, and reſolution, under the aſſaults of, death the King of fears.</hi>
+               <note place="margin">
+                  <hi>Dwy</hi> 3.</note>
+            </p>
+            <p>When we are to encounter with death, let us conſider, we are to do no other, than what the Saints have undergone before us. <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> yea, all the holy men, and women that truſted in God, (our <hi>Saviour</hi> himſelf not ex<g ref="char:EOLhyphen"/>cepted) have encountered with this enemie. We ſhould (me<g ref="char:EOLhyphen"/>thinks) boldly look death in the face, ſith ſo many of Gods <hi>Worthies</hi> have skirmiſhed with it, and ſo made way to them<g ref="char:EOLhyphen"/>ſelves for an <hi>immediate paſſage</hi> unto glory. And this bring me to the laſt and principal <hi>Point</hi> of the Text.</p>
+            <q>
+               <hi>True believers,<note place="margin">
+                     <hi>Doctr.</hi> 2.</note> immediately upon death, are called unto, and crowned with bleſſedneſs in the kingdom of glorie.</hi>
+            </q>
+            <p>The Saints, inſtantly, upon their leaving of the earth, go to live with God in heaven. Though they are not <hi>fully</hi> glorious, or ſo gloriouſly happy as they ſhall be when both <hi>bodie</hi> &amp; <hi>ſoul</hi> ſhall ſhine with glorie, yet immediatly upon their reſpective <hi>deaths</hi> they enter into glory; and have ſuch a meaſure of it given forth to their <hi>ſouls,</hi> as they in that condition are capa<g ref="char:EOLhyphen"/>ble to receive. There is much in <hi>Scripture</hi> for the confirma<g ref="char:EOLhyphen"/>tion of this truth. I ſhall refer the quotations to, and draw them from ſeveral <hi>Topick</hi> places. And ſo The <hi>Doctrine</hi> may be confirmed;</p>
+            <p>Firſt from <hi>Scriptures</hi> declaring the <hi>immediate</hi> reception of departed Saints <hi>into the kingdome of glorie.</hi>
+               <note place="margin">
+                  <hi>1.</hi> Argument of Scripture to prove the Doctrine.</note> It is ſaid of faith<g ref="char:EOLhyphen"/>full <hi>Abraham,</hi> Gen. 25.8. <hi>That he gave up the ghoſt and died, and was gathered to his people.</hi> As ſoon as he was dead, he was <hi>gathered to his people.</hi> This is ſpoken, not in regard of his bodie, he being buried where few, or none of his Countrev<g ref="char:EOLhyphen"/>men,
+<pb n="15" facs="tcp:34462:11"/>and kindred lay interred, but in regard of his <hi>ſoul;</hi> and the <hi>phraſe</hi> intimates, that his ſoul ſtraightway upon its co<g ref="char:EOLhyphen"/>ming forth of the bodie, was carried to that place of happineſs, where his pious countrey-men and predeceſſors were before him. And this place is no other than <hi>heaven,</hi> which is the <hi>congregation-houſe</hi> for the receiving <hi>of the ſpirits of juſt men made perfect.</hi> We find this alſo affirmed of <hi>Iſaac, that he died, and was gathered to his people,</hi> Gen. 35.29. The ſame is ſaid of <hi>Jacob.</hi> Gen. 49.33. <hi>He gathered up his feet into the bed, and yielded up the ghoſt, and was gathered to his people.</hi> The mean<g ref="char:EOLhyphen"/>ing of theſe expreſſions is; that <hi>as ſoon</hi> as theſe holy men died, their ſouls went to the manſions of <hi>eternal</hi> felicitie, and to the companie of glorified Saints in heaven.</p>
+            <p>So much may evidently be concluded from the now recited <hi>texts,</hi> compared with <hi>Matth.</hi> 8.11. where our <hi>Saviour</hi> ſaith, that <hi>many ſhall come from the East and Weſt, and ſhall ſit down with Abraham, Iſaac, and Jacob in the kingdom of heaven.</hi> Ta<g ref="char:EOLhyphen"/>king it for granted, that theſe <hi>Patriarchs</hi> were alreadie in <hi>heaven.</hi>
+            </p>
+            <p>And (to remove all ſcruples) this <hi>Chriſt</hi> ſpake, long before his death, and aſcenſion into heaven, by which (as <hi>Popiſh</hi> ſophiſters imagin) he opened theſe everlaſting doors, and made enterance for his Saints who were before ſhut out.</p>
+            <p>The Scriptures upon which they build thi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> idle fancie, are wreſted, and miſapplied. Theſe words of <hi>Heb.</hi> 9.8. <hi>[The way into the holiest of all was not yet made manifeſt, while the firſt tabernacle was ſtanding]</hi> are groſely miſtaken. For 'tis not ſaid (as <hi>one</hi> well obſerves) that the way to the holieſt was <hi>clo<g ref="char:EOLhyphen"/>ſed,</hi>
+               <note place="margin">D. <hi>in</hi> Heb. 9.8.</note> or <hi>ſhut up;</hi> but that which is affirmed is, that the way to the holieſt, which is heaven, was not yet <hi>manifeſt while the first tabernacle was ſtanding;</hi> that is, was not ſo clearly reveal<g ref="char:EOLhyphen"/>ed, as it was afterward by the light of the Goſpel. That of S. <hi>John</hi> 3.13. makes nothing for it. The place cannot be in<g ref="char:EOLhyphen"/>terpreted ſo, as if no man aſcended heaven before Chriſts aſ<g ref="char:EOLhyphen"/>cenſion; the foregoing allegation from S. <hi>Matthews</hi> Goſpel, and many other Scriptures plainly contradict it. We are there<g ref="char:EOLhyphen"/>fore
+<pb n="16" facs="tcp:34462:12"/>to unſterſtand that verſe, not in a <hi>literal,</hi> but in a <hi>ſpiritu<g ref="char:EOLhyphen"/>al,</hi> and <hi>figurative</hi> ſence.<note place="margin">
+                  <hi>Calvin.</hi> in locum.</note> By aſcending up to heaven, is meant a pure knowledge, and a ſpiritual light of underſtanding in, and about the myſteries of God. To aſcend heaven here, is with an underſtanding eye,<note place="margin">
+                  <hi>Piſcator</hi> ad locum</note> to prie into the myſteries of hea<g ref="char:EOLhyphen"/>ven; and to be admitted as privie to the counſels of God.</p>
+            <p>Another wreſted Scripture <hi>Heb.</hi> 11.39. <hi>Theſe All having received a good report through faith received not the promiſe.</hi> From hence it is (by ſome) inferred, that theſe worthies went not to heave when they died. To this we ſay, that the pre<g ref="char:EOLhyphen"/>ſent place, ſpeaks not of the<note n="*" place="margin">
+                  <hi>Cameron</hi> in locum.</note> condition of theſe Saints after death, but of ſomewhat concerning them before, and at the time of their death. They died and received not the promiſe; that is, the <hi>great promiſe, Chriſt incarnate,</hi> and the happy, and gloriouseſtate of the Church under him. They had <hi>Chriſt</hi> one<g ref="char:EOLhyphen"/>ly in promiſe, dying ere they received a real exhibition of this promiſe. They died in expectancy of <hi>Chriſt</hi> to come, whom we now enjoy in life, and death, as come. Thus you ſee, notwith<g ref="char:EOLhyphen"/>ſtanding theſe cavils, the Patriarchs upon their deaths forth<g ref="char:EOLhyphen"/>with entered into glory. So did the poor <hi>Lazar</hi> alſo; <hi>He died,</hi> and forthwith upon his death, <hi>the Angels carried him into Abrahams boſom,</hi> Luke 16.22. That is to the happy ſo<g ref="char:EOLhyphen"/>ciety, and fellowſhip of <hi>Abraham,</hi> and other<note n="*" place="margin">Peſcator Diod ati <hi>in Lib.</hi> 16.22.</note> believers in the Kingdom of heaven. Although the body of this Saint had not a pompous funeral, as the rich mans had, yet his ſoul was attended by the glorious <hi>Angels,</hi> and by them inſtantly conveyed to the glory of heaven, repreſented under theſe tropical expreſſions <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note n="*" place="margin">
+                  <hi>Rom,</hi> 4.11.</note> 
+               <hi>Abrahams boſom.</hi> This happineſs is repreſented by the <hi>boſom of Abraham,</hi> rather than of any other Saint; becauſe he is the<note n="*" place="margin">Peter Matt. <hi>in</hi> 2. <hi>reg</hi> 2.</note> 
+               <hi>Fa<g ref="char:EOLhyphen"/>ther of all thoſe that believe:</hi> and the head as it were, of all thoſe men, whom God takes into covenant with himſelf, The <hi>phraſe</hi> is borrowed, either from<note n="*" place="margin">Cameron. Mytoth <hi>in locum</hi>
+               </note> 
+               <hi>Marriners,</hi> who carry their ſhips, out of the tempeſtuous Waves, into the good harbour, or quiet boſom of the ſea: or from the<note n="*" place="margin">
+                  <hi>Capel</hi> Spicil. in ocum.</note> 
+               <hi>cuſtom of the Eaſtern Nations,</hi> who at their banquets uſe to lean, on
+<pb n="17" facs="tcp:34462:12"/>lie in each others boſom: or rather. <hi>From the practiſe of tender parents,</hi> hugging, and imbracing their little ones into their boſoms. Even ſo the ſouls of the Saints immediately upon death, are carried by the <hi>Angels,</hi> who are Gods <hi>Pilots,</hi> from the troubleſom ſea of this world, to reſt and ſafety in the harbour of heaven; and to ſit down, as at a banquet, with <hi>Abraham,</hi> and other believers in that glorious place; where they ſhall be honoured, not onely with the fellowſhip, and imbraces of the Saints, but of <hi>God</hi> himſelf their tender Father, <hi>in whoſe</hi>
+               <note n="*" place="margin">
+                  <hi>Pſal.</hi> 16.11.</note> 
+               <hi>preſence there is fulneſs of joy, and at whoſe right hand there are pleaſures for ever more.</hi>
+            </p>
+            <p>Thus was it with <hi>Lazarus;</hi> and thus ſhall it be with all the <hi>Saints;</hi> the <hi>ending</hi> of this life, will be to them, the <hi>beginning</hi> of happineſs in the next. When their faith ends, as it doth when this life ends, <hi>then ſhall they receive the ſalvation of their ſouls,</hi> 1 <hi>Pet.</hi> 1.9. There is a paſſage in the 12 of <hi>Eccleſ.</hi> 7. fully declaring the condition of ſouls in, and after death: and I hope I may (without A <hi>rigid cenſure</hi>) place it, under this <hi>Topick</hi> place. The words are theſe; <hi>Then</hi> (meaning the time of death) <hi>ſhall the dust return to the earth, as it was, and the ſpirit ſhall return to God who gave it.</hi> As certainly, as the <hi>duſt, that is</hi> the body, goeth down to the duſt; ſo certainly the <hi>ſpirit that is</hi> the ſoul goeth up unto God to be judged, and to receive Either of his juſtice, in a ſentence of <hi>immediate condemnation,</hi> or of his mercy in an <hi>inſtantly beginning,</hi> and everlaſting <hi>ſalvation.</hi> The ſoul without delay, upon its ſepa<g ref="char:EOLhyphen"/>ration from the body repairs to God, to receive according to her demerits, either chains and torments in <hi>hell</hi> the priſon of diſobedient ſpirits; or frcedom, and bleſſedneſs in <hi>heaven,</hi> the manſion of glory. And this is the firſt <hi>Scripture Argument.</hi>
+            </p>
+            <p>Secondly, the truth of the former Doctrine may be de<g ref="char:EOLhyphen"/>monſtrated,<note place="margin">The ſecond Argument of Scripture to prove the former Do<g ref="char:EOLhyphen"/>ctrine.</note> from ſuch <hi>Text</hi> of holy Writ, as hold forth, the <hi>knowledge,</hi> and <hi>faith</hi> of Gods people, in, and about their immediate happineſs after death, and their <hi>deſires</hi> to depart hence, that ſo they may be with <hi>Chriſt,</hi> in happineſs, and glory. We may read the <hi>knowledge,</hi> and <hi>faith</hi> of the Saints
+<pb n="18" facs="tcp:34462:13"/>about this truth, in that excellent portion of Scripture, 2 <hi>Cor.</hi> 5.1. <hi>We know that if our earthly houſe of this taberna<g ref="char:EOLhyphen"/>cle were diſſolved, we have a building of God, an houſe not made with hands, evenal in the heavens.</hi> In this <hi>verſe</hi> our<note n="*" place="margin">
+                  <hi>Calvinus</hi> in locum.</note> 
+               <hi>body</hi> is compared to a tent, or tabernacle, the <hi>glory</hi> of heaven to an eternal houſe. When the ſoul is called away from ſojourning in the tabernacle of the body, ſhe inſtanly goeth to dwel in that eternal houſe of glory above. This the <hi>Apoſtle,</hi> and other of the Lords people knew, and believingly received as an un<g ref="char:EOLhyphen"/>doubted truth. And upon this account is it, that death hath been ſo earneſtly deſired by them. <hi>I have a deſire</hi> (ſaid S. <hi>Paul</hi>) <hi>to be diſſolved, and to be with Chriſt, which is farr bet<g ref="char:EOLhyphen"/>ter, Phil.</hi> 1.23. Yea, this is the defire of all the Saints, 2 <hi>Cor.</hi> 5.8. <hi>We are confident and willing rather to be abſent from the body, and to be preſent with the Lord.</hi> The ſouls of the Saints ſtraightway upon death, enter into the ſociety and fellowſhip of <hi>Chriſt</hi> in glory. <hi>Aſſoon</hi> as they depart hence, they go to <hi>Chriſt;</hi> and are preſent with him <hi>inſtantly</hi> upon their abſence from the body. Now the knowledge and faith of the Lords people concerning this, was it, that made them ſo deſirous of death. Did their ſouls <hi>die,</hi> or <hi>ſleep,</hi> or paſs through the pe<g ref="char:EOLhyphen"/>nances of <hi>Purgatory,</hi> before they went up to heaven, death were not ſo deſirable, as the <hi>Saints,</hi> guided by the unerring <hi>ſpirit, know</hi> it to be: neither yet ſhould they be with <hi>Chriſt</hi> upon death, which they fully know, and firmly believed, but in an eſtate of further diſtance from <hi>Chriſt,</hi> then whilſt they were here upon earth, which is expreſly contradictory to the <hi>word of Truth.</hi>
+            </p>
+            <p>The laſt <hi>Scripture-Argument,</hi>
+               <note place="margin">The third Scripture-Argument for probati<g ref="char:EOLhyphen"/>on of the Ductrine</note> I ſhall urge for confirmation of the former <hi>Truth,</hi> is deduced from <hi>Scriptures</hi> repreſenting <hi>promiſes from God</hi> to the Saints of immediate entrance into glory, upon their reſpective diſſolutions; and <hi>the prayers of dying Saints,</hi> that God would (according To his <hi>promiſe</hi>) receive up their ſouls to himſelf in glory. We may ſee theſe promiſes in the following <hi>quotations.</hi> The firſt is <hi>Eſay</hi> 57.2. <hi>He ſhall enter into peace; they ſhall reſt in their beds each one
+<pb n="19" facs="tcp:34462:13"/>walking in his uprightneſs.</hi> In theſe words we have a gracious promiſe made out to all thoſe that walk uprightly before God, that upon their deaths they ſhall <hi>enter into peace,</hi> and <hi>reſt in their beds.</hi> Theſe expreſſions <hi>[He ſhall enter into peace]</hi> import and hold forth that happineſs, which upon death ſhall be beſtowed upon the ſouls of the upright, in their immedi<g ref="char:EOLhyphen"/>are enjoyment of God in glory; the laſt clauſe <hi>[they ſhall rest in their beds]</hi> ſheweth, that as the<note n="*" place="margin">Synod Annot. <hi>in locum.</hi>
+               </note> ſouls of the Saints go unto a place of reſt, &amp; bliſs, ſo their bodies are laid to reſt in the grave, as in <hi>a bed</hi> or <hi>bed-chamber</hi> until the generall reſurection.</p>
+            <p>The other quotation is <hi>Luke</hi> 23.43. <hi>To day</hi> (ſaid <hi>Chriſt</hi> to the penitent thief) <hi>thou ſhalt be with me in paradiſe.</hi> That is, this very day in thy ſoul, thou ſhalt be with me in <hi>Paradiſe, Chriſt</hi> means not the <hi>earthly Paradiſe,</hi> for that is ſuppoſed deſtroy<g ref="char:EOLhyphen"/>ed by the flood; neither can the ſoul which is ſpiritual, be af<g ref="char:EOLhyphen"/>fected with earthly delights; but the caeleſtial Paradiſe, which is no other than heaven, as is plain by 2 <hi>Cor.</hi> 12.2, 4. <hi>verſes.</hi> The Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note n="*" place="margin">Paſer lex. Graecolat.</note> ſignifieth a moſt pleaſant gar<g ref="char:EOLhyphen"/>den, ſet forth with fruitfull trees of all ſorts. And by a<note n="*" place="margin">Diodati in <hi>23</hi> Luke <hi>43.</hi>
+               </note> figure taken from the garden where <hi>Adam</hi> was put, when he was in the ſtate of innocency, is here uſed, as elſewhere in<note n="*" place="margin">
+                  <hi>Revel.</hi> 2.7.</note> Scripture, to ſignifie The place of eternal happineſs. So that in this ſcripture, there is as a promiſe of heaven made to the penitent thief; ſo alſo, a preſent enjoyment of it, upon that very day of his death. And this promiſe (as<note n="*" place="margin">Origen. hom. <hi>15.</hi> in Gen.</note> 
+               <hi>Origen</hi> notes) concerns not him onely but all the Saints of God.</p>
+            <p>The ſhift of <hi>Smalcius,</hi> and other <hi>Hereticks</hi> to evade the force of this Scripture is weak, and abſurde. They ſay that [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. to day] hath dependance upon the for<g ref="char:EOLhyphen"/>mer words, and relates to the <hi>inſtant</hi> in which the promiſe was made, and not to the <hi>future</hi> in which it was to be per<g ref="char:EOLhyphen"/>formed. And they thus <hi>read</hi> and <hi>paraphraſe</hi> the verſe. <hi>And Jeſus ſaid unto him; verily I ſay unto thee to day,</hi> [<hi>that is,</hi> I now tell thee,] <hi>thou ſhalt be with me in Paradiſe,</hi> [to wit after the time of the laſt judgement. But this <hi>gloſs</hi> of theirs, renders <hi>Chriſts</hi> anſwer <hi>ſapleſs,</hi> and <hi>unſavoury;</hi> fathers <hi>bat<g ref="char:EOLhyphen"/>tology</hi>
+               <pb n="20" facs="tcp:34462:14"/>upon him,<note n="*" place="margin">John 7.46</note> the <hi>infinite</hi> wiſe Saviour of the world, <hi>who ſpake as never man ſpake;</hi> and is a groſs corruption of the ſa<g ref="char:EOLhyphen"/>cred <hi>Text.</hi>
+            </p>
+            <p>The <hi>Greek</hi> and <hi>Syriack</hi> copies read, and render it other<g ref="char:EOLhyphen"/>wiſe; referring [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to day</hi>] to the latter words, as repre<g ref="char:EOLhyphen"/>ſenting the time in which the promiſe of being with Chriſt in Paradiſe, was to be made good to this penitent Thief. The <hi>[to day]</hi> of the Lord Jeſus in this verſe, anſwers to the <hi>[when]</hi> of the thief in the former verſe; and ſheweth, that the time when Chriſt would remember him, ſhould be that very day. Thus (notwithſtanding the exceptions of <hi>adverſaries</hi>) this promiſe of Chriſt to the repenting thief, is a full, and convin<g ref="char:EOLhyphen"/>cing proof, for the paſſage of gracious ſouls unto glorie, and that, immediately upon their ſeparation from the bodie. Fi<g ref="char:EOLhyphen"/>nally, upon this account is it, that dying Saints have by prayer commended their <hi>fleeting</hi> ſouls to the mercie of God. Thus did the bleſſed Martyr <hi>Stephen, Lord Jeſus</hi> (ſaid he) <hi>receive my ſpirit,</hi> Act. 7.59. So did our Saviour; <hi>Father, into thy hands I commend my ſpirit,</hi> Luke 23.46. Theſe petitions ſhew plain<g ref="char:EOLhyphen"/>ly, that God doth take care of the ſouls of his Saints in death, &amp; forthwith upon death receives them unto himſelf in glorie.</p>
+            <p>This <hi>Truth</hi> is alſo,<note place="margin">The uſes of the Doctrine</note> very profitable in <hi>application,</hi> and may ſerve;</p>
+            <list>
+               <item>1. For <hi>Refutation.</hi>
+               </item>
+               <item>2. For <hi>Exhortation.</hi>
+               </item>
+            </list>
+            <p>The preſent <hi>Truth</hi> ſpeaks to the refutation,<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 1.</note> and overthrow of two <hi>ſoul-ſadning opinions.</hi> The one, an opinion of the <hi>Pa<g ref="char:EOLhyphen"/>pists.</hi> The other, of <hi>Mortaliſts,</hi> and <hi>Soul-fleepers,</hi> a looſe ſect among our ſelves.</p>
+            <p>The firſt opinion reſuted by this Truth is, of the <hi>Papiſts,</hi> who <hi>dream of a Purgatorie, or place in which,</hi> (they ſay) <hi>ſome of thoſe that die in the Lord, are for a time to be purged, and pu<g ref="char:EOLhyphen"/>niſhed before they arrive to the bleſſedneſs of glorie.</hi>
+            </p>
+            <p>This opinion is a meer <hi>fancie</hi> and <hi>device</hi> of giddie brains; having not the leaſt countenance from the Word of God, but directly oppoſing it; terriſying the Saints with anguiſh and
+<pb n="21" facs="tcp:34462:14"/>pains, even horrible and <hi>helliſh;</hi> when the ſpirit promiſeth no<g ref="char:EOLhyphen"/>thing but <hi>bleſſedneſs</hi> and <hi>reſt</hi> in the kingdom of heaven, and that, as it is in the text, from <hi>henceforth after</hi> death, <hi>that is,</hi> in<g ref="char:EOLhyphen"/>ſtantly upon their departure. <hi>Purgatorie</hi> (as <hi>one</hi> well) is a fiction invented purpoſely to make the Popes Kitchin ſmoke. And is an invention not known to the Greek Church for the ſpace of 1500 <hi>years</hi> after Chriſt, and but of late known to the <hi>Latine</hi> Church. We read in Scripture as of two ſorts of per<g ref="char:EOLhyphen"/>ſons, good and bad; ſo of two places onely for the receiving of theſe after death. <hi>Wicked men die, and immediately go down to hell; the righteous die, and ſtraightway aſcend heaven.</hi> For a third place, <hi>God</hi> made none, the <hi>Scriptures</hi> mention none, the <hi>Fathers</hi> believed none, acknowledging onely two places hea<g ref="char:EOLhyphen"/>ven and hell for the receiving of ſouls after death.</p>
+            <p>The ſecond opinion reſuted by the preſent Doctrine, is of ſome amongſt our ſelves; who ſay, <hi>the ſouls of Saints, do not upon death partake of glorie in heaven, but either die, or ſleep un<g ref="char:EOLhyphen"/>till the time of the reſurrection. Auguſtine</hi> in his book of <hi>here<g ref="char:EOLhyphen"/>ſies,</hi> calleth the <hi>authors</hi> of this wicked, and drowſie opinion <hi>Arabici,</hi> from the place of their firſt original, and abode. The <hi>confirmation</hi> of the former Truth, is a ſufficient <hi>confuta<g ref="char:EOLhyphen"/>tion</hi> of this monſtrous <hi>error.</hi> The ſouls of the Saints immedi<g ref="char:EOLhyphen"/>ately upon their ſeparation, are called to the enjoyment of bleſ<g ref="char:EOLhyphen"/>ſedneſs in heaven; therefore they neither die, nor ſleep. If <hi>ſeparateſouls</hi> were either dead, or aſleep, they could not be happie, and bleſſed: Sith according to the <hi>maxim</hi> in the <hi>Schools; all bleſſedneſs conſiſts in action.</hi>
+            </p>
+            <p>Death may kill the bodie, but it cannot kill the ſoul. The ſoul is by the <hi>immortal God</hi> honoured with laſtingneſs, and immortalitie. Though the ſoul had a time in which it began to live, yet there is no time, in which it ſhall <hi>die.</hi> Yea, let me ſay, that the judgement of eternal death upon unbelieving ſouls, doth not conſiſt in a privation of life, but of happineſs, and glorie. Eternal death is not an annihilation of being to wicked ſouls, or a privation of life in them, but an infliction of everlaſting torments upon them. Everlaſting death is in<g ref="char:EOLhyphen"/>flicted
+<pb n="22" facs="tcp:34462:15"/>upon the ſouls of ſinners, not <hi>by killing, or annihilating their ſouls, but by tormenting them with infernal puniſhments.</hi> The unbelieving ſoul (to uſe an expreſſion of <hi>Auguſtines</hi>) <hi>is immortal unto death.</hi> Ever dying, and yet never dead, under the deadly ſtroaks of the ſecond death. As for the believing ſoul, ſhe is <hi>immortal unto life;</hi> and lives in, and after death. Hence is it, that <hi>God (who is not the God of the dead, but of the living)</hi> is ſaid to be the <hi>God of Abraham; Iſaac, and Jacob:</hi> Matth. 22.32. <hi>Abraham</hi> then is alive, <hi>Iſaac</hi> is alive, and <hi>Jacob</hi> is alive; but how? Not in their bodies, but in their ſouls. Their bodies were long ſince dead, and periſhed; but their ſouls live in glorie. Hence again is it, that <hi>all</hi> dead Saints are ſaid to <hi>live to God,</hi> Luke 20.38. Even becauſe they live with God in their ſpirits, although they are dead in reſpect of their bodies, or in the account of the world. Furthermore, the <hi>appellations</hi> by which the death of the Saints is deſcribed, are plain diſco<g ref="char:EOLhyphen"/>veries of the life, and immortalitie of the ſoul. Holy <hi>Job</hi> calls his death <hi>a change,</hi> chap. 14.14. Death is not to the Saints, an abſolute privation of life, but onely a <hi>change,</hi> or <hi>mutation,</hi> of place and condition. The bodie goeth to reſt in the grave; the ſoul leaves the earth, and goes to heaven. Aged <hi>Simeon</hi> ſpeaking of his death, calls it a <hi>departure,</hi> or <hi>a ſetting at liberty,</hi> as the <hi>Greek</hi> ſignifies. The ſoul is not deſtroyed by death, but onely ſet at <hi>libertie</hi> from the priſon of the bodie; and ob<g ref="char:EOLhyphen"/>tains a <hi>let-paſs</hi> to depart from the miſeries of the earth, to the joys above. The Apoſtle <hi>Peter</hi> calleth death, <hi>a laying down of his tabernacle,</hi> 2 Pet. 2.14. The <hi>Metaphor</hi> is taken from <hi>Shepherds;</hi> and the <hi>Apostle</hi> by it ſignifieth; that, as ſhepherds, when they leave their tents, do go home to their houſes: ſo we that are the Lords people, when by death, the tabernacles of our bodys are taken down, do in our ſouls depart hence, <hi>to dwel in houſes not made with hands, but eternal in the heavens.</hi> The ſoul then doth not die,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 5.1.</note> but live in, and after death. Touching the <hi>ſleeping</hi> of the ſoul, which ſome affirm, and hold forth to the world, chiefly upon this pretext, becauſe death is in Scrip<g ref="char:EOLhyphen"/>ture reſembled <hi>to ſleep,</hi> and vnder that notion commended to
+<pb n="23" facs="tcp:34462:15"/>publick view, give me leave, to <hi>drop</hi> a word or two.</p>
+            <p>Death indeed is a kind of <hi>ſleep;</hi> and is often in Scripture ex<g ref="char:EOLhyphen"/>preſſed by that <hi>ſweet,</hi> and <hi>lovely</hi> name. But we are to know, that death is ſo called, not in reference to the <hi>ſoul,</hi> as if it ſlept in the bodie, as <hi>ſome</hi> dream; or were caſt into a dead ſleep be<g ref="char:EOLhyphen"/>ing ſeparated from the bodie, as <hi>others</hi> imagine; but wholy in regard of the <hi>bodie,</hi> which by death is eaſed of all its pain, and travail under the ſun. In <hi>Rev.</hi> 6.9, 10, 11. The <hi>life, actions,</hi> and <hi>glorie</hi> of ſanctified ſouls in the ſtate of <hi>ſeparation</hi> are <hi>viſi<g ref="char:EOLhyphen"/>onally</hi> repreſented to S. <hi>John;</hi> The words are theſe, <hi>I ſaw under the altar the ſouls of them that were ſlain for the word of God, &amp; for the testimonie which they held. And they cried with a loud voice, ſaying, How long, O Lord, holy and true, doſt thou not a<g ref="char:EOLhyphen"/>venge our bloud on them that dwell on the earth. And white robes were given unto every one of them.</hi> This Scripture holds forth to our purpoſe.</p>
+            <p n="1">1. That the ſouls of Saints, in the ſtate of ſeparation, are not dead, but alive; not aſleep, but waking, and watchfull They <hi>crie</hi> unto God againſt the wicked; not for any particular vengeance, but of zeal to Gods juſtice, and of deſire of the full coming of his kingdome, in the total ruin of the wicked, and in the laſt and finaljudgement. 2. This Scripture imports, that the ſeparate ſouls of Saints are not in Purgatorie, but in heaven. They are <hi>under the altar;</hi> that is, they are in the pre<g ref="char:EOLhyphen"/>ſence, and under the protection of <hi>Christ,</hi> who is our altar. Laſtly, it ſheweth, that theſe ſouls partave of Chriſts glorie. They have <hi>white robes given to themt</hi> and this is an emblem of that glorie, wherewith they are dignified. Thus of the firſt uſe.</p>
+            <p>In the next place this <hi>truth</hi> is profitable for <hi>exhortation,</hi>
+               <note place="margin">
+                  <hi>Uſe</hi> 2.</note> and that to ſeveral <hi>Goſpel-duties;</hi> I can (through the want of time) onely touch upon them.</p>
+            <p n="1">1. The firſt duty is; <hi>A willingneſs to die when God calls to it.</hi> Death makes way for life, and glory. To die once well, is to live eternally. Immediately after our diſſolutions we go to Chriſt, <hi>which is beſt of all.</hi> This (me thinks) ſhould ſweeten
+<pb n="24" facs="tcp:34462:16"/>the bitterneſs of death, and make the thoughts of it pleaſing, and delightfull. The gain of death, hath made many of Gods people, not onely willing to die, but alſo earneſtly deſirous of its inſtant approach. The Apoſtle <hi>Paul had an earneſt de<g ref="char:EOLhyphen"/>ſire to be diſſolved.</hi> He did not onely deſire to die, but deſired it, with A vehement affection, as <hi>Some</hi> give out the ſence of the <hi>Greek</hi> tearms, <hi>Phil.</hi> 1.23. And that which heightned, and imflamed his deſire was, the glory, he knew, would at<g ref="char:EOLhyphen"/>tend him, immediately upon his diſſolution. <hi>He deſired to be diſſolved, that ſo he might be with</hi> Chriſt <hi>which is</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>much mmch better, or farr much better.</hi> Meditate I beſeech you upon the gain of death; and by this work up your ſpirits to a willingneſs for death, when God ſummons to it. 'Tis one part of <hi>dying well,</hi> to <hi>die willingly.</hi>
+            </p>
+            <p>Secondly, learn hence, <hi>So to diſpoſe of your ſelves in life, as that ye may die in the faith, and fear of the Lord.</hi> This is the way to be happy after death. A ſun-ſhine day may be cloſed up with a ſtormy evening; but a gracious life ſhall never end in an evil, and unhappy death. Such as the <hi>premiſes</hi> in life are, ſuch will the <hi>concluſion</hi> in death alway be.<note n="*" place="margin">
+                  <hi>Pſal</hi> 37.37.</note> 
+               <hi>Mark the perfect man, and behold the upright, for the end of that man is peace.</hi> On the contrary; although death be gain to the Saints, yet it is a <hi>plague</hi> of <hi>plagues</hi> to the wicked. They that die in ſin, ſhall die eternally. The <hi>wicked</hi> [that is ſuch as live, and die thus] <hi>ſhall be turned into hell, Pſal.</hi> 9.17. You muſt make it your buſineſs to live, and die to the <hi>Lord,</hi> if you deſire to be bleſſed after death. <hi>Bldſſed</hi> are they, all they, and onely they <hi>that die in the Lord.</hi>
+            </p>
+            <p n="3">3. For a concluſion of all; Do believers enter into glory, immediately upon death? <hi>Let us not mourn immoderately for our departed Friends, who are deadin the Lord.</hi> They are now, <hi>with the Lord,</hi> they now <hi>reſt from their labours;</hi> and have received in part <hi>the reward of their works.</hi> Oh farr be it from us to mourn exceſſively, ſith theſe friends of ours whom we <hi>bemone,</hi> have gained ſo exceedingly by their departure from us. We ſhould not ſo much mourn over the bodies of the
+<pb n="25" facs="tcp:34462:16"/>Saints, becauſe their ſouls have left them, as over the ſouls of ſinners, becauſe God hath forſaken them. Exceſſive mourn<g ref="char:EOLhyphen"/>ing for the dead is a practiſe moſt unbeſeeming thoſe that profeſs the name of <hi>Chriſt.</hi> It may be tolerable in Heathens, that have no hope: but 'tis damnable in believing Chriſti<g ref="char:EOLhyphen"/>ans. <hi>I would not have you ignorant, brethren, concerning them that are aſleep that ye ſorrow not, even as others which have no hope.</hi> 1 <hi>Theſſ.</hi> 4.13. It is a very great ſin in thoſe that believe the <hi>rest;</hi> and <hi>reſurrection</hi> of departed Saints, immo<g ref="char:EOLhyphen"/>derately to lament for thoſe, that are gone to their reſt. It is A <hi>heatheniſh</hi> practiſe, and calls for <hi>deteſtatien,</hi> not <hi>imite<g ref="char:EOLhyphen"/>tion. Abraham Gen.</hi> 23.4. Treates with the ſens of <hi>Heth</hi> for a burying place, that ſo he might bury his wife <hi>Sarith</hi> out of his ſight. He choſe rather to forget her, then forget himſelf by a laviſh, and over-abounding ſorrow. And it is obſerve<g ref="char:EOLhyphen"/>able that our <hi>Saviour Chriſt</hi> when he came to the <hi>Rulers</hi> houſe <hi>Matth.</hi> 9.23. Reprehends ſmartly the <hi>muſitians,</hi> be<g ref="char:EOLhyphen"/>cauſe (according to the<note n="*" place="margin">2 <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rm.</hi> 33 25. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.17</note> 
+               <hi>cuſtom</hi> of theſe times) they played their ſad tunes to increaſe ſorrow, whereas they ſhould ra<g ref="char:EOLhyphen"/>ther have mitigated, and allayed it. Nature is of it ſelf too prone to exceed the bounds of ſobriety.</p>
+            <p>I beſeech you all that hear me now; but all you more eſpe<g ref="char:EOLhyphen"/>cially, that ſympathize in the ſorrow of this day through the death of our departed Siſter, that ye <hi>mitigate, and mode<g ref="char:EOLhyphen"/>rate your ſorrow, and grief,</hi> Do you bound, and limit it, leaſt it hurt your ſelves, diſhonour God, bring the profeſſion of the goſpel into contempt. You have all loſt, (I know) by this deat-ſtroke; Oh know, know; 1 That God is able to repay your loſſes, and will do ſo if you wait upon him. <hi>None of them that truſt in him ſhall be deſolate,</hi> Pſal. 34.22. Secondly It was the will of the Lord to have it thus, and you ſhould willingly ſubmit to it. <hi>It is the Lord</hi> (ſaid old <hi>Eli</hi>) <hi>let him do what ſeemeth him good</hi> 1 <hi>Sam.</hi> 3.18.<note place="margin">1 <hi>Theſ,</hi> 4.18.</note> Thirdly comfort your ſelves with this: her gain is infinitely beyond your loſs. She (we hope is gone from <hi>earth,</hi> to <hi>heaven;</hi> from a <hi>vale</hi> of miſery, to a <hi>hill</hi> of joy; from the company of us weak, and ſinfull men, to <hi>an innumerable company of Angels; to the general aſſembly, and
+<pb facs="tcp:34462:17"/>Church of the firſt born, which are written in heaven, and to God the jugde of all, and to the ſpirits of just men made perfect; and to Jeſus the Mediatour of the new covenant,</hi> Heb. 12.22. In a word ſhe is gone, from the Church <hi>militant,</hi> to the Church <hi>triumphant;</hi> from <hi>ſojourning here in Gods tabernacle, To dwel upon his holy hill;</hi> from <hi>labouring</hi> here in the kingdom of grace, to <hi>reſt</hi> and <hi>bleſſedneſs</hi> in the Kingdom of glory. <hi>For</hi> this <hi>reſt</hi> and <hi>bleſſedneſs,</hi> O bleſſed Father, fit, and prepare us To this <hi>rest,</hi> and <hi>bleſſedneſs</hi> O bleſſed <hi>Jeſu,</hi> lead, and direct us: Of this <hi>reſt,</hi> and <hi>bleſſedneſs:</hi> O bleſſed <hi>Spirit,</hi> certifie, and aſſure us; and with this <hi>reſt,</hi> and <hi>bleſſedneſs,</hi> O moſt bleſſed <hi>God,</hi> who art <hi>three</hi> in perſon, and but one in eſſence, in thy due time crown, and comfort us, even for thy mercy ſake. <hi>Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34462:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
